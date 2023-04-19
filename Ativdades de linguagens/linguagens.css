@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+p{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    
+    font-size: 300%;
+    color: whitesmoke;
+}
+ 
+.page-riderr {
+     background-color:blue;
+     margin-top: 0;
+     padding: 15px 15px 15px 15px;
+     text-decoration: none;}
+
+ 
+.pagee {
+     background-color: blue;
+     text-decoration: none;}
+
+body {
+
+        background-color:whitesmoke;
+        font-family: Arial, Helvetica, sans-serif;
+        margin: 0;
+        padding: 0;
+    
+    }
